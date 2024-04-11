@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/984f8177e4e24cb287e1dbd543f5b8be/artifacts
+end_time: 1705045932429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 984f8177e4e24cb287e1dbd543f5b8be
+run_name: chill-mare-953
+run_uuid: 984f8177e4e24cb287e1dbd543f5b8be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705045922552
+status: 3
+tags: []
+user_id: KAPIL

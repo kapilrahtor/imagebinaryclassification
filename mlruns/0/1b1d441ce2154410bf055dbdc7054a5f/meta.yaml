@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/1b1d441ce2154410bf055dbdc7054a5f/artifacts
+end_time: 1705646055552
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b1d441ce2154410bf055dbdc7054a5f
+run_name: judicious-wolf-121
+run_uuid: 1b1d441ce2154410bf055dbdc7054a5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705646044956
+status: 3
+tags: []
+user_id: KAPIL

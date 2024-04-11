@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/246d2606e317407c96cd6ffd92484ac1/artifacts
+end_time: 1712828857977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 246d2606e317407c96cd6ffd92484ac1
+run_name: clumsy-bear-273
+run_uuid: 246d2606e317407c96cd6ffd92484ac1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712828846220
+status: 3
+tags: []
+user_id: KAPIL

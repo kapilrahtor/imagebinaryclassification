@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/715e885d9cba4cae89854c023566c7bb/artifacts
+end_time: 1712741850638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 715e885d9cba4cae89854c023566c7bb
+run_name: sassy-bass-635
+run_uuid: 715e885d9cba4cae89854c023566c7bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712741837632
+status: 3
+tags: []
+user_id: KAPIL

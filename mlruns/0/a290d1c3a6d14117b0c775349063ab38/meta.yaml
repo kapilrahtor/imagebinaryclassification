@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/a290d1c3a6d14117b0c775349063ab38/artifacts
+end_time: 1705045044495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a290d1c3a6d14117b0c775349063ab38
+run_name: casual-shoat-314
+run_uuid: a290d1c3a6d14117b0c775349063ab38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705045034115
+status: 3
+tags: []
+user_id: KAPIL

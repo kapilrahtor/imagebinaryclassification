@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/ef12e9c8bc1e4d57b0046f82346128b8/artifacts
+end_time: 1705048817302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef12e9c8bc1e4d57b0046f82346128b8
+run_name: rumbling-deer-574
+run_uuid: ef12e9c8bc1e4d57b0046f82346128b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705048805721
+status: 3
+tags: []
+user_id: KAPIL
