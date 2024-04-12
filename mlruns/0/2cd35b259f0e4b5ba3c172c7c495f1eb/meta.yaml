@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/2cd35b259f0e4b5ba3c172c7c495f1eb/artifacts
+end_time: 1712891700861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2cd35b259f0e4b5ba3c172c7c495f1eb
+run_name: capable-dog-79
+run_uuid: 2cd35b259f0e4b5ba3c172c7c495f1eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712891684249
+status: 3
+tags: []
+user_id: KAPIL

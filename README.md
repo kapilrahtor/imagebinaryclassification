@@ -1,4 +1,4 @@
-# Image_binary_classification
+# imagebinaryclassification
 
 ## Workflows
 
@@ -19,7 +19,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Chicken-Disease-Classification--Project
+https://github.com/kapilrahtor/imagebinaryclassification.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 

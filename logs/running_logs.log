@@ -1493,3 +1493,45 @@ x=========x]
 [2024-04-11 15:17:37,978: INFO: main: >>>>>>> stage Evaluation stage completed <<<<<<<<< 
 
 x=========x]
+[2024-04-12 08:40:12,785: INFO: stage_01_data_ingestion: >>>>>>> stage Data Ingestion stage started]
+[2024-04-12 08:40:12,789: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-04-12 08:40:12,789: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-12 08:40:12,789: INFO: common: created directory at: artifacts]
+[2024-04-12 08:40:12,796: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-04-12 08:40:12,797: INFO: dtat_ingestion: Downloading data from https://drive.google.com/file/d/1h_vUZNurCue1KF3I4XStiB9v3GLLQGpc/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-04-12 08:40:36,619: INFO: dtat_ingestion: Downloaded data from https://drive.google.com/file/d/1h_vUZNurCue1KF3I4XStiB9v3GLLQGpc/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-04-12 08:40:37,606: INFO: stage_01_data_ingestion: >>>>>>> stage Data Ingestion stage completed <<<<<<<<< 
+
+x=========x]
+[2024-04-12 08:41:03,651: INFO: stage_02_prepare_base_model: >>>>>>> stage Prepare base model started]
+[2024-04-12 08:41:03,657: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-04-12 08:41:03,660: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-12 08:41:03,660: INFO: common: created directory at: artifacts]
+[2024-04-12 08:41:03,663: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-04-12 08:41:04,423: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-04-12 08:41:05,233: INFO: stage_02_prepare_base_model: >>>>>>> stage Prepare base model completed <<<<<<<<< 
+
+x=========x]
+[2024-04-12 08:41:15,053: INFO: stage_03_model_training: >>>>>>> stage Training started]
+[2024-04-12 08:41:15,056: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-04-12 08:41:15,060: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-12 08:41:15,060: INFO: common: created directory at: artifacts]
+[2024-04-12 08:41:15,062: INFO: common: created directory at: artifacts\training]
+[2024-04-12 08:44:13,986: INFO: stage_03_model_training: >>>>>>> stage Training completed <<<<<<<<< 
+
+x=========x]
+[2024-04-12 08:44:24,786: INFO: stage_04_model_evaluation_mlflow: >>>>>>> stage Evaluation stage started]
+[2024-04-12 08:44:24,789: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-04-12 08:44:24,793: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-04-12 08:44:24,794: INFO: common: created directory at: artifacts]
+[2024-04-12 08:44:43,810: INFO: common: json file saved at: scores.json]
+[2024-04-12 08:44:43,810: INFO: common: json file saved at: scores.json]
+[2024-04-12 08:44:45,685: WARNING: save: Found untraced functions such as _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op, _jit_compiled_convolution_op while saving (showing 5 of 14). These functions will not be directly callable after loading.]
+[2024-04-12 08:44:46,476: INFO: builder_impl: Assets written to: C:\Users\KAPIL\AppData\Local\Temp\tmp3nw_5y92\model\data\model\assets]
+[2024-04-12 08:45:00,736: INFO: dir_util: creating E:\Kidney-Disease-Classification-Deep-Learning-Project\mlruns\0\2cd35b259f0e4b5ba3c172c7c495f1eb\artifacts\model\data]
+[2024-04-12 08:45:00,752: INFO: dir_util: creating E:\Kidney-Disease-Classification-Deep-Learning-Project\mlruns\0\2cd35b259f0e4b5ba3c172c7c495f1eb\artifacts\model\data\model]
+[2024-04-12 08:45:00,752: INFO: dir_util: creating E:\Kidney-Disease-Classification-Deep-Learning-Project\mlruns\0\2cd35b259f0e4b5ba3c172c7c495f1eb\artifacts\model\data\model\assets]
+[2024-04-12 08:45:00,766: INFO: dir_util: creating E:\Kidney-Disease-Classification-Deep-Learning-Project\mlruns\0\2cd35b259f0e4b5ba3c172c7c495f1eb\artifacts\model\data\model\variables]
+[2024-04-12 08:45:00,863: INFO: stage_04_model_evaluation_mlflow: >>>>>>> stage Evaluation stage completed <<<<<<<<< 
+
+x=========x]
